@@ -18,9 +18,3 @@ Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly
 - Number of lab procedures is the strongest readmission predictor
 - Clinically complex patients (more medications, longer stays) are highest risk
 - Gradient Boosting achieved highest ROC-AUC of 0.6639
-
-## Project Structure
-hospital_readmission/
-├── Hospital_Readmission_Prediction.ipynb
-├── diabetic_data.csv
-└── README.md
